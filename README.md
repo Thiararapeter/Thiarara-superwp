@@ -1,6 +1,14 @@
 # 💫 About Me:
-create custom wordpress plugin, template, custom python softeare, <br>
+Greetings! 👋 I'm Thiararapeter, a dynamic tech enthusiast driven by a profound passion for crafting innovative solutions. With a versatile skill set, I specialize in the art of creating tailored solutions that seamlessly blend technology and creativity. My journey involves the intricate world of WordPress, where I excel in the development of custom plugins that add unique functionalities to websites.
 
+In addition to my expertise in WordPress, I take pride in designing visually appealing and user-friendly templates that not only captivate audiences but also elevate the overall user experience. Moving beyond the realm of web development, my proficiency extends to the realm of Python, where I engineer bespoke software solutions. From conceptualization to implementation, I am dedicated to turning abstract ideas into tangible and efficient applications.
+
+🛠️ Expertise Highlights:
+WordPress Development: Crafting custom plugins to enhance the functionality of websites and deliver a personalized user experience.
+
+Template Design: Designing aesthetically pleasing and user-friendly templates that seamlessly integrate with various platforms.
+
+Python Software Development: Building bespoke software solutions with Python, ensuring efficiency and tailored functionalities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiararapeter) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thiarara) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thiararapeter) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thiararapeter) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCG8B01F08eRJE8STS3XkINg) 
