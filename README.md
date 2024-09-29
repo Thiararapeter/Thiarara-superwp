@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi! I'm Thiararapeter, a tech enthusiast passionate about crafting innovative solutions. I specialize in WordPress development, creating custom plugins, and designing user-friendly templates. I'm also skilled in Python, developing tailored software solutions.
+Hi! I'm Thiarara - superWP, a tech enthusiast passionate about crafting innovative solutions. I specialize in WordPress development, creating custom plugins, and designing user-friendly templates. I'm also skilled in Python, developing tailored software solutions.
 
 ## 🛠️ Expertise Highlights
 - **WordPress Development**: Custom plugins for enhanced functionality.
@@ -42,4 +42,3 @@ Hi! I'm Thiararapeter, a tech enthusiast passionate about crafting innovative so
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thiararapeter)
 
 ---
-Proudly created with [GPRM](https://gprm.itsvg.in)
